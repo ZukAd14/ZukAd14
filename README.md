@@ -1,7 +1,6 @@
-# Welcome to My GitHub Profile!                                                                     [![HitCount](https://hits.dwyl.com/ZukAd14/ZukAd14.svg?style=flat-square)](http://hits.dwyl.com/ZukAd14/ZukAd14)
-  
+# Welcome to My GitHub Profile! [![HitCount](https://hits.dwyl.com/ZukAd14/ZukAd14.svg?style=flat-square)](http://hits.dwyl.com/ZukAd14/ZukAd14)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZukAd14&hide=stars,contribs,issues&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZukAd14&hide=stars,contribs,issues&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZukAd14&layout=compact)
 
 Hello! I'm [Adam](https://github.com/ZukAd14), an aspiring Junior FullStack Developer eager to kickstart my career in the IT industry. Below you'll find some information about me and my skills.
 
@@ -44,5 +43,3 @@ I'm actively seeking opportunities to start my career as a junior developer. If 
 
 ## Goal
 My goal is to land my first job and continue learning and growing as a developer. I'm excited to contribute to meaningful projects and make a positive impact in a collaborative team environment.
-
-
