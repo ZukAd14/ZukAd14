@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!   [![HitCount](https://hits.dwyl.com/ZukAd14/ZukAd14.svg?style=flat&show=unique)](http://hits.dwyl.com/ZukAd14/ZukAd14)
+# Welcome to My GitHub Profile! 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZukAd14&hide=stars,contribs,issues&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZukAd14&layout=compact)
 
