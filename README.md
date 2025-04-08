@@ -38,7 +38,7 @@ I have a strong passion for coding and a desire to learn and grow in the field o
 
 ## Contact
 I'm actively seeking opportunities to start my career as a junior developer. If you're interested in working together or have any questions, feel free to reach out to me:
-- Email: <a href="mailto:adam.zukowski@junior-dev.pl">adam.zukowski@junior-dev.pl</a>
+- Email: <a href="mailto:adam.zukowski471@gmail.com">adam.zukowski471@gmail.com</a>
 - LinkedIn: [Adam Żukowski](https://www.linkedin.com/in/adam-zukowski-zukad14/)
 
 ## Goal
